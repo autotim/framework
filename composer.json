@@ -5,7 +5,7 @@
     "license": "MIT",
     "support": {
         "issues": "https://github.com/autotim/laravel-framework/issues",
-        "source": "https://github.com/autotim/framework"
+        "source": "https://github.com/autotim/laravel-framework"
     },
     "require": {
         "php": "^7.2.5",
