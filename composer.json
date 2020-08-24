@@ -1,5 +1,5 @@
 {
-    "name": "autotim/framework",
+    "name": "laravel/framework",
     "description": "Laravel Forked Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
