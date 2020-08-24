@@ -7,7 +7,6 @@
         "issues": "https://github.com/autotim/laravel-framework/issues",
         "source": "https://github.com/autotim/framework"
     },
-    ],
     "require": {
         "php": "^7.2.5",
         "ext-json": "*",
